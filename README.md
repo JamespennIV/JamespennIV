@@ -2,8 +2,8 @@
 
 <h2>💻 Cybersecurity and IT Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/JamespennIV/Algorithms-Practice)
+- <b>TO BE ADDED</b>
+
 
 <h2>Certifications</h2>
 
