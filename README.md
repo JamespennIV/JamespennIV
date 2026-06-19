@@ -1,8 +1,9 @@
-<h1>Hello, I'm James!<br/>This is my <a href="https://github.com/JamespennIV">Laboratory</a> and <a href="https://www.linkedin.com/in/james-penn-iv-37a3461ba/">Credentials</a></h1>
+<h1>Hello, I'm James!<br/>This is the <a href="https://github.com/JamespennIV">Laboratory</a> and my <a href="https://www.linkedin.com/in/james-penn-iv-37a3461ba/">Credentials</a>!</h1>
 
 <h2>💻 Cybersecurity and IT Projects:</h2>
 
-- <b>TO BE ADDED</b>
+- <b>Active Directory (W.I.P)</b>
+- <b>SIEM Microsoft Sentinel (W.I.P)</b>
 
 
 <h2>Certifications</h2>
