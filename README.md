@@ -2,6 +2,13 @@
 
 <h2>💻 Cybersecurity and IT Projects:</h2>
 
+### Microsoft Entra ID IAM Lab
+
+Hands-on IAM case study using Microsoft Entra ID inside an Azure for Students environment. This project simulates a small organization and demonstrates identity lifecycle management, security groups, RBAC, least privilege, administrative role delegation, and IAM documentation.
+
+**Skills demonstrated:** Microsoft Entra ID, IAM, RBAC, least privilege, user provisioning, group-based access control, administrative separation, and security documentation.
+
+[View Project](https://github.com/JamespennIV/microsoft-entra-iam-lab)
 - <b>Active Directory (W.I.P)</b>
 - <b>SIEM Microsoft Sentinel (W.I.P)</b>
 
