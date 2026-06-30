@@ -27,6 +27,13 @@ Ran a full vulnerability management cycle using the Nessus Student License — s
 
 [**View Project →**](https://github.com/JamespennIV/vulnerability-management-lab)
 
+### TryHackMe Lab Writeups
+Portfolio-safe writeups covering completed TryHackMe rooms across investigation, OSINT, AI threat modeling, reverse engineering, and log analysis. Each writeup documents the methodology, tools used, lessons learned, and interview-relevant takeaways — without exposing flags or direct challenge answers.
+
+**Skills:** OSINT · Investigation Methodology · Threat Modeling · AI Security Awareness · Log Analysis · Web Investigation · Reverse Engineering Fundamentals · Evidence Correlation · Technical Documentation
+
+[**View Project →**](https://github.com/JamespennIV/tryhackme-lab-writeups)
+
 ---
 
 ## 📜 Certifications
