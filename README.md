@@ -1,20 +1,40 @@
-<h1>Hello, I'm James!<br/>This is the <a href="https://github.com/JamespennIV">Laboratory</a> and my <a href="https://www.linkedin.com/in/james-penn-iv-37a3461ba/">Credentials</a>!</h1>
+<h1 align="center">Hi, I'm James 👋</h1>
 
-<h2>💻 Cybersecurity and IT Projects:</h2>
+<p align="center">
+Aspiring Cybersecurity & IT professional building hands-on, portfolio-ready experience in IAM, vulnerability management, and security operations. I document everything I build — not just to show I did it, but to show how I think.
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/james-penn-iv-37a3461ba/">LinkedIn</a> ·
+<a href="https://github.com/JamespennIV">GitHub</a>
+</p>
+
+---
+
+## 🛠️ Projects
 
 ### Microsoft Entra ID IAM Lab
+Built a hands-on IAM case study using Microsoft Entra ID in an Azure for Students environment, simulating a small organization's identity infrastructure end to end — identity lifecycle management, security groups, RBAC, least privilege, and administrative role delegation, all backed by clear documentation.
 
-Hands-on IAM case study using Microsoft Entra ID inside an Azure for Students environment. This project simulates a small organization and demonstrates identity lifecycle management, security groups, RBAC, least privilege, administrative role delegation, and IAM documentation.
+**Skills:** Microsoft Entra ID · IAM · RBAC · Least Privilege · User Provisioning · Group-Based Access Control · Administrative Separation · Security Documentation
 
-**Skills demonstrated:** Microsoft Entra ID, IAM, RBAC, least privilege, user provisioning, group-based access control, administrative separation, and security documentation.
+[**View Project →**](https://github.com/JamespennIV/microsoft-entra-iam-lab)
 
-[View Project](https://github.com/JamespennIV/microsoft-entra-iam-lab)
-- <b>Active Directory (W.I.P)</b>
-- <b>SIEM Microsoft Sentinel (W.I.P)</b>
+### Vulnerability Management Lab
+Ran a full vulnerability management cycle using the Nessus Student License — scanned a local target, reviewed and triaged the findings, analyzed a vulnerability in depth, and turned it into a remediation plan with a validation path, while sanitizing all evidence before publishing.
 
+**Skills:** Vulnerability Scanning · Nessus · CVE/CVSS Awareness · Scanner Output Review · Remediation Documentation · Validation Planning · Report Handling · Evidence Sanitization
 
-<h2>Certifications</h2>
+[**View Project →**](https://github.com/JamespennIV/vulnerability-management-lab)
 
-- [<b>CompTIA A+<b>](https://www.credly.com/badges/f7215d70-1585-4dd2-9661-396d3e4fe7f3/public_url)
-- [<b>CompTIA Network+<b>](https://www.credly.com/badges/7f10daa2-77a6-4165-b706-73a795f4b213/public_url)
-- [<b>CompTIA Security+<b>](https://www.credly.com/badges/19abfa12-b1ae-4854-8a9e-d8af6b7751b3/public_url)
+---
+
+## 📜 Certifications
+
+- [**CompTIA A+**](https://www.credly.com/badges/f7215d70-1585-4dd2-9661-396d3e4fe7f3/public_url)
+- [**CompTIA Network+**](https://www.credly.com/badges/7f10daa2-77a6-4165-b706-73a795f4b213/public_url)
+- [**CompTIA Security+**](https://www.credly.com/badges/19abfa12-b1ae-4854-8a9e-d8af6b7751b3/public_url)
+
+---
+
+<p align="center"><i>Always looking to learn, build, and connect — feel free to reach out.</i></p>
