@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm James 👋</h1>
 
 <p align="center">
-Aspiring Cybersecurity & IT professional building hands-on, portfolio-ready experience in IAM, vulnerability management, and security operations. I document everything I build — not just to show I did it, but to show how I think.
+IT professional building hands-on, portfolio-ready experience in IAM, vulnerability management, and security operations. I document everything I build — not just to show I did it, but to show how I think.
 </p>
 
 <p align="center">
@@ -40,6 +40,14 @@ Built and hardened a departmental Active Directory environment on an Azure-hoste
 **Skills:** Active Directory Domain Services · Domain & Forest Promotion · Organizational Unit Design · Security Group Scoping · PowerShell Scripting · Group Policy Objects · Account Lifecycle Administration · Directory Auditing
 
 [**View Project →**](https://github.com/JamespennIV/active-directory-azure-lab)
+
+### ServiceNow ITSM Fundamentals Lab
+Worked through the core ServiceNow ITSM lifecycle end to end in a personal developer instance — logging and resolving an incident with proper internal/external documentation separation, building a self-service catalog item with intake variables, and submitting a Normal change request through CAB approval with a documented test plan and backout plan, plus operational reporting on incident volume.
+
+**Skills:** ServiceNow · Incident Management · ITIL · Service Catalog Design · Change Management · CAB Approval Workflow · Test & Backout Planning · Reporting & Data Visualization
+
+[**View Project →**](https://github.com/JamespennIV/servicenow-itsm-lab)
+
 
 
 ---
