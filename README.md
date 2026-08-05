@@ -34,6 +34,14 @@ Portfolio-safe writeups covering completed TryHackMe rooms across investigation,
 
 [**View Project →**](https://github.com/JamespennIV/tryhackme-lab-writeups)
 
+### Active Directory on Azure Lab
+Built and hardened a departmental Active Directory environment on an Azure-hosted Windows Server VM, simulating a small organization's on-prem-style identity infrastructure end to end — domain promotion, OU and security-group design, scripted user provisioning, and a baseline GPO enforcing password, session-lock, and removable-storage policy, all backed by clear documentation.
+
+**Skills:** Active Directory Domain Services · Domain & Forest Promotion · Organizational Unit Design · Security Group Scoping · PowerShell Scripting · Group Policy Objects · Account Lifecycle Administration · Directory Auditing
+
+[**View Project →**](https://github.com/JamespennIV/active-directory-azure-lab)
+
+
 ---
 
 ## 📜 Certifications
