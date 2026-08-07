@@ -5,7 +5,7 @@ IT professional building hands-on, portfolio-ready experience in IAM, vulnerabil
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/james-penn-iv-37a3461ba/">LinkedIn</a> ·
+<a href="https://www.linkedin.com/in/JamespennIV/">LinkedIn</a> ·
 <a href="https://github.com/JamespennIV">GitHub</a>
 </p>
 
