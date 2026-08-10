@@ -48,6 +48,26 @@ Worked through the core ServiceNow ITSM lifecycle end to end in a personal devel
 
 [**View Project →**](https://github.com/JamespennIV/servicenow-itsm-lab)
 
+### Vulnerability Management Lab
+Ran a full vulnerability management lifecycle against an Azure-hosted VM using Tenable Nessus — stood up an isolated scanning environment, compared unauthenticated discovery scan results (3 findings) against a credentialed Windows scan (61 findings), remediated a HIGH-severity finding (CVE-2013-3900, CVSS 8.8) using its CVE reference and Nessus's guidance, and validated the fix with a follow-up scan (61 → 59 findings). When Nessus Essentials' free tier blocked native PDF report export, wrote a standalone executive/technical remediation summary in its place rather than treating the process as incomplete.
+
+**Skills:** Tenable Nessus · Vulnerability Scanning (Authenticated & Unauthenticated) · CVE/CVSS Triage · Remediation & Validation · Azure VM Provisioning · Vulnerability Reporting
+
+[**View Project →**](https://github.com/JamespennIV/vulnerability-management-lab)
+
+### Splunk SIEM Log Pipeline Lab
+Built a Windows Event Log → Splunk forwarding pipeline, diagnosed a real "zero events indexed" incident down to a silently misnamed config file using Splunk's `btool` CLI (ruling out audit policy, event generation, NSG rules, and receiving config along the way), then rebuilt the indexer from scratch on Ubuntu in Azure with least-privilege network rules, redeployed the forwarder, and turned validated log data into a Classic dashboard and a scheduled high-privileged-logon alert.
+
+**Skills:** Splunk (Universal Forwarder, Indexer, `btool`) · Windows Event Log Forwarding · Azure NSG Least-Privilege Design · Log Pipeline Troubleshooting · Dashboard & Alert Creation · PowerShell Test Event Generation
+
+[**View Project →**](https://github.com/JamespennIV/splunk-siem-lab)
+
+### Wireshark Network Traffic Analysis Lab
+Captured and analyzed live network traffic with Wireshark — applied display filters to isolate DNS, TCP, and HTTP activity, verified a DNS lookup and a full TCP three-way handshake against terminal output, identified cleartext credential exposure on an HTTP login form, and used Follow TCP Stream to reconstruct a complete client-server conversation.
+
+**Skills:** Wireshark · Packet Capture & Analysis · Display Filter Syntax · DNS Verification · TCP/TLS Handshake Analysis · Cleartext Credential Detection · Network Troubleshooting
+
+[**View Project →**](https://github.com/JamespennIV/wireshark-lab)
 
 
 ---
@@ -57,6 +77,7 @@ Worked through the core ServiceNow ITSM lifecycle end to end in a personal devel
 - [**CompTIA A+**](https://www.credly.com/badges/f7215d70-1585-4dd2-9661-396d3e4fe7f3/public_url)
 - [**CompTIA Network+**](https://www.credly.com/badges/7f10daa2-77a6-4165-b706-73a795f4b213/public_url)
 - [**CompTIA Security+**](https://www.credly.com/badges/19abfa12-b1ae-4854-8a9e-d8af6b7751b3/public_url)
+- [**Microsoft Certified: Azure Fundamentals (AZ-900)**](https://learn.microsoft.com/en-us/users/jamespenn-8889/credentials/98a472744a1eb778?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 ---
 
