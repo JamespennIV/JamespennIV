@@ -20,13 +20,6 @@ Built a hands-on IAM case study using Microsoft Entra ID in an Azure for Student
 
 [**View Project →**](https://github.com/JamespennIV/microsoft-entra-iam-lab)
 
-### Vulnerability Management Lab
-Ran a full vulnerability management cycle using the Nessus Student License — scanned a local target, reviewed and triaged the findings, analyzed a vulnerability in depth, and turned it into a remediation plan with a validation path, while sanitizing all evidence before publishing.
-
-**Skills:** Vulnerability Scanning · Nessus · Tenable · CVE/CVSS Awareness · Scanner Output Review · Remediation Documentation · Validation Planning · Report Handling · Evidence Sanitization
-
-[**View Project →**](https://github.com/JamespennIV/vulnerability-management-lab)
-
 ### TryHackMe Lab Writeups
 Portfolio-safe writeups covering completed TryHackMe rooms across investigation, OSINT, AI threat modeling, reverse engineering, and log analysis. Each writeup documents the methodology, tools used, lessons learned, and interview-relevant takeaways — without exposing flags or direct challenge answers.
 
