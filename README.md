@@ -53,7 +53,7 @@ Built a Windows Event Log → Splunk forwarding pipeline, diagnosed a real "zero
 
 **Skills:** Splunk (Universal Forwarder, Indexer, `btool`) · Windows Event Log Forwarding · Azure NSG Least-Privilege Design · Log Pipeline Troubleshooting · Dashboard & Alert Creation · PowerShell Test Event Generation
 
-[**View Project →**](https://github.com/JamespennIV/splunk-siem-lab)
+[**View Project →**](https://github.com/JamespennIV/splunk-labs)
 
 ### Wireshark Network Traffic Analysis Lab
 Captured and analyzed live network traffic with Wireshark — applied display filters to isolate DNS, TCP, and HTTP activity, verified a DNS lookup and a full TCP three-way handshake against terminal output, identified cleartext credential exposure on an HTTP login form, and used Follow TCP Stream to reconstruct a complete client-server conversation.
