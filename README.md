@@ -68,7 +68,7 @@ Built and validated an Azure Active Directory Domain Controller entirely through
 
 **Skills:** Terraform (Infrastructure as Code) · Azure Resource Provisioning · CustomScriptExtension Bootstrapping · Active Directory Domain Services & Forest Promotion · Terraform Plan/Apply/Destroy Troubleshooting · Checkov Static Analysis · PowerShell Validation
 
-[**View Project →**](https://github.com/JamespennIV/terraform/Labs/Lab_01_AD)
+[**View Project →**](https://github.com/JamespennIV/terraform/tree/main/Labs/Lab%2001%20AD)
 
 
 
