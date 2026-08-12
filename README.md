@@ -63,6 +63,15 @@ Captured and analyzed live network traffic with Wireshark — applied display fi
 [**View Project →**](https://github.com/JamespennIV/wireshark-lab)
 
 
+### Azure Active Directory Domain Controller with Terraform
+Built and validated an Azure Active Directory Domain Controller entirely through Terraform instead of the Azure Portal — wrote the resource group, network, NSG, VM, and CustomScriptExtension configuration by hand, then debugged real deployment errors as they surfaced: an NSG block name typo, a tfvars key mismatch that Terraform silently fell back around, a missing output value attribute, and VM extension escaping that needed terraform taint to recover from. Ran Checkov static analysis against the finished configuration, validated the deployed domain controller over RDP with PowerShell, then tore the entire environment down with terraform destroy.
+
+**Skills:** Terraform (Infrastructure as Code) · Azure Resource Provisioning · CustomScriptExtension Bootstrapping · Active Directory Domain Services & Forest Promotion · Terraform Plan/Apply/Destroy Troubleshooting · Checkov Static Analysis · PowerShell Validation
+
+[**View Project →**](https://github.com/JamespennIV/Terraform/tree/main/01-active-directory-domain-controller)
+
+
+
 ---
 
 ## 📜 Certifications
